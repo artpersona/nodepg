@@ -1,0 +1,23 @@
+{
+  "name": "db2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "perez-prob1": "node perez-prob1.js",
+    "perez-prob2": "node perez-prob2.js",
+    "perez-prob3": "node perez-prob3.js",
+    "perez-prob4": "node perez-prob4.js",
+    "perez-prob5": "node perez-prob5.js",
+    "perez-prob6": "node perez-prob6.js",
+    "perez-prob7": "node perez-prob7.js"
+   
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.18.1"
+  }
+}
